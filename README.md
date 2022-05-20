@@ -7,5 +7,6 @@
 We will learn git and git hub  command 
 aaaxqqsssTs
 This repo is only ment to be used by students to learn git and try different git commands.
-:qw
+
+This is the Secong change I am doing in  README File
 
